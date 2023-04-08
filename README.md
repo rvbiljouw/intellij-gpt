@@ -10,3 +10,7 @@ Simply write a text prompt into the editor, select and right click the text and 
 
 Select any code in the editor, then right click and select "Explain this code" from the context menu.
 
+## demo
+
+https://user-images.githubusercontent.com/1209072/230730393-17df5d5c-ba4a-4a4b-acc2-0660c24c21d5.mov
+
